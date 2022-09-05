@@ -1,4 +1,4 @@
-console.log('Hello Word')
+console.log(' Word')
 const a="ongba"
 console.log(a)
 const b={
@@ -25,7 +25,7 @@ function doctuoi(obj) {
 function showobject(bb) {
     console.log(bb)
 }
-doctuoi(b)
+
 const arr = ["hihi",1,2,3];
 showobject(arr[1])
 for (let index = 0; index < arr.length; index++) {
