@@ -1,4 +1,4 @@
-console.log('Hello all Word')
+console.log('Hello all all Word')
 const a="ongba"
 console.log(a)
 const b={
