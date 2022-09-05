@@ -6,7 +6,7 @@ const b={
     lasNam:"cuong",
     age: 25
 }
-console.log(b)
+
 if (b.age == 25) {console.log(b)} else if(b.age == 26){console.log("true")}
 function doctuoi(obj) {
     switch (obj.age) {
