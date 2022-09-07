@@ -1,4 +1,4 @@
-console.log(' Word')
+console.log(' hell Word')
 const a="ongba"
 console.log(a)
 const b={
