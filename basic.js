@@ -18,7 +18,7 @@ function doctuoi(obj) {
                 break;
     
         default:
-            console.log("khong biet")
+            console.log("khong  biet")
             break;
     }
 }
