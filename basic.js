@@ -14,7 +14,7 @@ function doctuoi(obj) {
             console.log("hai nam")
                 break;
         case 26:
-            console.log("hai eee sau")
+            console.log("hai  sau")
                 break;
     
         default:
